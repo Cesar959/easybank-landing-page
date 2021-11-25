@@ -8,7 +8,7 @@
 
 ## Descrição
 
-Criação de uma Landing Page atrativa para os usuários contendo algumas animações para manter a atenção durante a navegação, Além de um menu hambúrguer para a versão mobile. O layout foi desenvolvido pela empresa **Frontend Mentor** que disponibilizou gratuitamente o designer com objetivo de teste pratico de habilidades.
+Criação de uma Landing Page atrativa para os usuários contendo algumas animações para manter a atenção durante a navegação, Além de um menu hambúrguer para a versão mobile. O layout foi desenvolvido pela empresa **Frontend Mentor** que disponibilizou gratuitamente o designer com objetivo de teste pratico de habilidades. Na pasta DOC você encontra toda a documentação do projeto como layout e desafio proposto.
 
 ## Desafio proposto
 
