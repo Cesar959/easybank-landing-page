@@ -40,6 +40,7 @@
 
 /* Formatação Geral */
 
+
 /* Menu */
 
 header
@@ -219,8 +220,8 @@ header ul li:hover .borda
     display: block;
 }
 
-
 /* Menu */
+
 
 /* Home */
 
@@ -304,6 +305,7 @@ header ul li:hover .borda
 
 /* Home */
 
+
 /* Escolher */
 
 #escolher
@@ -371,6 +373,7 @@ header ul li:hover .borda
 }
 
 /* Escolher */
+
 
 /* Artigos Recentes */
 
@@ -581,8 +584,6 @@ footer .redes-socias
     text-align: center;
 }
 
-
-
 /* Footer */
 
 
@@ -591,7 +592,6 @@ footer .redes-socias
 
 /* Media Querys */
 
-@media screen and (max-width: 1280px) {}
 @media screen and (max-width: 1152px) 
 {
     /* Home */
@@ -615,7 +615,6 @@ footer .redes-socias
 
     /* Home */
 }
-@media screen and (max-width: 1024px) {}
 @media screen and (max-width: 992px) 
 {
     /* Menu */
@@ -638,6 +637,7 @@ footer .redes-socias
     }
 
     /* Menu */
+
 
     /* Home */
 
@@ -670,6 +670,7 @@ footer .redes-socias
 
     /* Home */
 
+
     /* Escolher */
 
     #escolher .grupo-card .card 
@@ -679,6 +680,7 @@ footer .redes-socias
     }
 
     /* Escolher */
+
 
     /* Artigo-Recentes */
 
@@ -699,6 +701,7 @@ footer .redes-socias
     }
 
     /* Artigo-Recentes */
+
 
     /* Footer */
 
@@ -740,6 +743,7 @@ footer .redes-socias
     }
 
     /* Footer */
+
 }
 @media screen and (max-width: 768px) 
 {
@@ -771,6 +775,7 @@ footer .redes-socias
     }
 
     /* Menu */
+
 
     /* Home */
 
@@ -821,6 +826,7 @@ footer .redes-socias
 
     /* Home */
 
+
     /* Escolher */
 
     #escolher 
@@ -860,6 +866,7 @@ footer .redes-socias
 
     /* Escolher */
 
+
     /* Artigo-Recentes */
 
     #artigos-recentes .grupo-card .card
@@ -879,6 +886,7 @@ footer .redes-socias
     }
 
     /* Artigo-Recentes */
+
 }
 @media screen and (max-width: 600px)
 {
@@ -901,6 +909,7 @@ footer .redes-socias
 
     /* Home */
 
+
     /* Escolher */
 
     #escolher h2 
@@ -910,6 +919,7 @@ footer .redes-socias
 
     /* Escolher */
 
+
     /* Artigos-recentes */
 
     #artigos-recentes .grupo-card .card .conteudo-card h3 
@@ -918,10 +928,11 @@ footer .redes-socias
     }
 
     /* Artigos-recentes */
+
 }
-@media screen and (max-width: 540px) {}
 @media screen and (max-width: 475px) 
 {
+
     /* Home */
 
     #home .mockups-desktop 
@@ -935,9 +946,11 @@ footer .redes-socias
     }
 
     /* Home */
+
 }
 @media screen and (max-width: 414px) 
 {
+
     /* Home */
 
     #home .mockups-desktop 
@@ -956,10 +969,11 @@ footer .redes-socias
     }
 
     /* Home */
+
 }
-@media screen and (max-width: 375px) {}
 @media screen and (max-width: 360px) 
 {
+
     /* Home */
 
     #home .coluna-home-ilustracao 
@@ -972,9 +986,11 @@ footer .redes-socias
     }
 
     /* Home */
+
 }
 @media screen and (max-width: 320px) 
 {
+
     /* Home */
 
     #home .coluna-home-ilustracao 
@@ -983,5 +999,6 @@ footer .redes-socias
     }
 
     /* Home */
+
 }
 @media screen and (max-width: 280px) {}
