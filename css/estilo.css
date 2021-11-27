@@ -172,8 +172,7 @@ header ul li:hover .borda
     top: 100px;
     left: -50%;
     right: -50%;
-    z-index: 10;
-
+    z-index: 20;
 }
 
 .menu-mobile nav
