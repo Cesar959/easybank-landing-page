@@ -29,7 +29,7 @@ os usuários devem ser capazes de:
 
 ## Status do Projeto
 
-**Concluido**: O projeto não esta terminado, havera futuras alterações de funcionalidade.
+**Concluido**: O projeto esta terminado, não havera futuras alterações de funcionalidade.
 
 ## Autor
 
